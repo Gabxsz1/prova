@@ -1,0 +1,39 @@
+.card1
+{
+    margin: 1rem;
+    width: 300px;
+    height: 400px;
+    border: 1px black solid;
+}
+
+.card2
+{
+    margin: 1rem;
+    width: 300px;
+    height: 400px;
+    border: 1px black solid;
+}
+
+.card3
+{
+    margin: 1rem;
+    width: 300px;
+    height: 400px;
+    border: 1px black solid;
+}
+
+.cards
+{
+    display: flex;
+    justify-content: center;
+}
+
+.hcard1, .hcard2, .hcard3
+{
+    text-align: center;
+}
+
+.card1, .card2, .card3
+{
+    padding: 1rem;
+}

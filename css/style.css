@@ -1,0 +1,28 @@
+.cabecario
+{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+}
+h1
+{
+    margin: 1rem;
+}
+
+.navlist
+{
+    list-style-type: none;
+    display: flex;
+}
+.navlist li
+{
+    margin: 1rem;
+    padding: 1rem;
+}
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
